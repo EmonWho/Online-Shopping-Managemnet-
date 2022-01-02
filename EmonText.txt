@@ -1,0 +1,4 @@
+Saree 5000.000000 India
+Lehanga 7000.000000 India
+Pant 2500.000000 Bangladesh
+Shirt 1500.000000 China
